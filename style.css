@@ -5,3 +5,16 @@
 }
 
 
+header {
+    height: 100vh;
+    background-image: url(assets/img/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: aliceblue;
+    font-size: 28px;
+}
+ h1 {
+    font-size: 62px;
+    padding-top: 400px;
+ }
