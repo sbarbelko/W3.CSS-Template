@@ -57,3 +57,21 @@ header {
     padding: 5px;
 }
 
+.section-two {
+    height: 100vh;
+    background-image: url(assets/img/bg3.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+
+.p-section-two {
+    font-size: 68px;
+    padding-top: 425px;
+    padding-bottom: 30px;
+}
+
+.secont-p-section-two {
+    font-size: 42px;
+}
