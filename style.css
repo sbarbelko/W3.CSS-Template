@@ -137,3 +137,18 @@ h3 {
 .a-section-five {     
     color: inherit;
 }
+
+footer {
+    font-size: 0;
+    text-align: center;
+    height: 50px;
+}
+
+.a-footer {
+    display: inline-block;
+    font-size: initial;
+    width: 25%;
+    padding-top: 15px;
+    text-decoration: none;
+    color: rgb(83, 83, 83);
+}
