@@ -30,12 +30,11 @@ header {
     padding-top: 80px;
     font-size: 42px;
     padding-bottom: 30px;
+    color: rgb(102, 101, 101);
  }
 
  img {
-    width: 900px;
     padding-bottom: 30px;
-    
  }
 
  .p-section-one {
@@ -74,4 +73,31 @@ header {
 
 .secont-p-section-two {
     font-size: 42px;
+}
+
+.section-three {
+    background-color: rgb(228, 226, 226);
+    height: 100vh;
+    text-align: center;
+}
+
+.div-section-three {
+    font-size: 0;
+
+}
+
+.h2-section-three {
+    padding-top: 60px;
+    padding-bottom: 60px;
+} 
+
+.div-section-three {
+    width: 500px;
+    font-size: inherit;
+    display: inline-block;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 32px;
 }
