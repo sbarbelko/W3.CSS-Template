@@ -123,3 +123,17 @@ h3 {
     
 } */
 
+.section-five {
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+
+.p-section-five {
+    padding-top: 60px;
+}    
+
+.a-section-five {     
+    color: inherit;
+}
