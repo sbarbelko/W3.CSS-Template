@@ -35,11 +35,13 @@ header {
 
  img {
     padding-bottom: 30px;
+    max-width: 100%;
  }
 
  .p-section-one {
     text-align: left;
     width: 900px;
+    max-width: 100%;
     display: inline-block;
     padding-bottom: 30px;
  }
@@ -119,9 +121,14 @@ h3 {
     padding-bottom: 30px;
 }
 
-/* button {
-    
-} */
+button {
+    background-color: firebrick;
+    border: none;
+    padding: 10px;
+    border-radius: 10%;
+    font-size: 16px;
+    color: aliceblue;
+} 
 
 .section-five {
     height: 100px;
