@@ -40,10 +40,12 @@ header {
 
  .p-section-one {
     text-align: left;
-    width: 900px;
+    width: 920px;
     max-width: 100%;
     display: inline-block;
     padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
  }
 
  .div-section-one {
