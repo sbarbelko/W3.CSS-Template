@@ -19,7 +19,7 @@ h1 {
   padding-top: 400px;
 }
 
-.section-one-three {
+.section-one {
   background-color: rgba(214, 151, 162, 0.377);
   height: 100vh;
   color: rgb(102, 101, 101);
@@ -33,19 +33,17 @@ h2 {
   color: rgb(102, 101, 101);
 }
 
-img {
+.img-section-one {
   padding-bottom: 30px;
+  width: 880px;
   max-width: 100%;
 }
 
 .p-section-one {
   text-align: left;
-  width: 920px;
-  max-width: 100%;
   padding-bottom: 30px;
   padding-left: 10px;
   padding-right: 10px;
-  margin: 0 auto;
 }
 
 .div-section-one {
@@ -79,13 +77,29 @@ img {
   font-size: 42px;
 }
 
+.section-three {
+  background-color: rgba(214, 151, 162, 0.377);
+  height: 100vh;
+  color: rgb(65, 63, 63);
+  text-align: center;
+}
+
 .h2-section-three {
   padding-top: 60px;
   padding-bottom: 60px;
 }
 
+.img-section-three {
+  padding-bottom: 30px;
+  max-width: 100%;
+}
+
+.section-section-three {
+  font-size: 0;
+}
+
 .div-section-three {
-  width: 500px;
+  width: 50%;
   display: inline-block;
   font-size: 18px;
 }
@@ -148,4 +162,9 @@ footer {
   padding-top: 15px;
   text-decoration: none;
   color: rgb(83, 83, 83);
+}
+
+.center-container {
+  max-width: 900px;
+  margin: 0 auto;
 }
